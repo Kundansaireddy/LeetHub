@@ -13,19 +13,19 @@ const App = () => {
         <Card
           image={img1}
           name="LeetMate"
-          description="Compare the recently solved 20 Problems"
+          description="Tool to identify unique problems solved by your Friends"
           href="https://leet-mate-ksr.vercel.app/"
         />
         <Card
           image={img2}
           name="LeetGraph"
-          description="Compare all ratings from the Contests"
+          description="Compare all ratings from recent Contests among your gang."
           href="https://leet-graphs-ksr.vercel.app/"
         />
         <Card
           image={img3}
           name="LeetCompare"
-          description="Compare based on Total Problems solved"
+          description="Comparator based on Total Problems solved"
           href="https://leet-compare-ksr.vercel.app/"
         />
       </div>
